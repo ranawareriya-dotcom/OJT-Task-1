@@ -5,6 +5,7 @@ This is my first Repository.
 Author - Riya Ranaware
 
 <br>
+<br>
 
 ##School Data Analysis (EDA + Machine Learning)
 
@@ -37,18 +38,15 @@ This project focuses on performing **Exploratory Data Analysis (EDA)** and build
 * Removed duplicate records
 * <br>
 * Final dataset: **clean and complete (no null values)**
-* 
-<br>
 
+<br>
 
 3)Exploratory Data Analysis (EDA)
 
 <br>
-
 Performed detailed analysis using:
 
 <br>
-
   **Univariate Analysis**: Distribution of subject scores
   <br>
   **Bivariate Analysis**: Relationships between variables
@@ -57,7 +55,7 @@ Performed detailed analysis using:
   
 <br>
 
-4) Key Insights
+4)Key Insights
    
 <br>
 
@@ -94,21 +92,18 @@ Created new features to improve analysis:
 <br>
 
 ##Machine Learning Model
-
 <br>
 
 * Algorithm: **Linear Regression**
 * Train/Test Split: **80/20**
 * Input Features:
-  
 <br>
-
   * Parent Literacy Rate
   * Teacher-Student Ratio
   * Science Score
   * Language Score
     
-  **Target: **% Math Score**
+**Target: **% Math Score**
   
 <br>
 
@@ -118,9 +113,8 @@ Created new features to improve analysis:
 
 * R² Score: **0.75 (75%)**
 * The model explains a significant portion of variation in student performance.
-* 
-<br>
 
+<br>
 
 🚀 Technologies Used
 <br>
