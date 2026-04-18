@@ -25,26 +25,24 @@ This project focuses on performing **Exploratory Data Analysis (EDA)** and build
 <br>
 
 **2)Data Cleaning:**
-
 <br>
 Handled missing values using:
 <br>
   * Mean (numerical data)
   * <br>
   * Mode (categorical data)
-    <br>
-    
+    <br>  
 *Removed duplicate records
 <br>
-* Final dataset:clean and complete (no null values)
+*Final dataset:clean and complete (no null values)
 <br>
 <br>
 
 **3)Exploratory Data Analysis (EDA):**
 <br>
 Performed detailed analysis using:
-
 <br>
+
   **Univariate Analysis**: Distribution of subject scores
   <br>
   **Bivariate Analysis**: Relationships between variables
@@ -52,10 +50,12 @@ Performed detailed analysis using:
   **Correlation Analysis**: Heatmap for feature relationships
   
 <br>
+<br>
 
 **4)Key Insights:**
    
 <br>
+
 📌 Higher **parent literacy** leads to better student performance
 <br>
 📌 Higher **teacher-student ratio** negatively impacts scores
@@ -67,9 +67,8 @@ Performed detailed analysis using:
 📌 Better **infrastructure (internet, facilities)** improves outcomes
 
 <br>
-
+<br>
 **5)Feature Engineering:**
-
 <br>
 Created new features to improve analysis:
 <br>
@@ -85,6 +84,7 @@ Created new features to improve analysis:
 * Student Load
   
 <br>
+<br>
 
 **Machine Learning Model:**
 <br>
@@ -98,8 +98,9 @@ Created new features to improve analysis:
   * Science Score
   * Language Score
     
-**Target:** **% Math Score**
+* **Target: % Math Score**
   
+<br>
 <br>
 
 **📊 Model Performance**
@@ -108,6 +109,7 @@ Created new features to improve analysis:
 * R² Score: **0.75 (75%)**
 * The model explains a significant portion of variation in student performance.
 
+<br>
 <br>
 
 **🚀 Technologies Used**
