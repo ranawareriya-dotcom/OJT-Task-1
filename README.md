@@ -7,7 +7,7 @@ Author - Riya Ranaware
 <br>
 <br>
 
-##School Data Analysis (EDA + Machine Learning)
+**School Data Analysis (EDA + Machine Learning)**
 
 <br>
 
@@ -16,33 +16,31 @@ This project focuses on performing **Exploratory Data Analysis (EDA)** and build
 <br>
 
 
-1)Data Understanding
+**1)Data Understanding:**
 <br>
-* Total Records: **5,200 schools**
-* Features: **17 columns**
-* Target Variable: **% Math Score**
+* Total Records: 5,200 schools
+* Features: 17 columns
+* Target Variable: % Math Score
 * Covers **urban and rural schools** across multiple districts
 <br>
 
-2)Data Cleaning
+**2)Data Cleaning:**
 
 <br>
-
-* Handled missing values using:
-  
+Handled missing values using:
 <br>
   * Mean (numerical data)
   * <br>
   * Mode (categorical data)
     <br>
-* Removed duplicate records
-* <br>
-* Final dataset: **clean and complete (no null values)**
-
+    
+*Removed duplicate records
+<br>
+* Final dataset:clean and complete (no null values)
+<br>
 <br>
 
-3)Exploratory Data Analysis (EDA)
-
+**3)Exploratory Data Analysis (EDA):**
 <br>
 Performed detailed analysis using:
 
@@ -55,10 +53,9 @@ Performed detailed analysis using:
   
 <br>
 
-4)Key Insights
+**4)Key Insights:**
    
 <br>
-
 📌 Higher **parent literacy** leads to better student performance
 <br>
 📌 Higher **teacher-student ratio** negatively impacts scores
@@ -71,12 +68,10 @@ Performed detailed analysis using:
 
 <br>
 
-5)Feature Engineering
+**5)Feature Engineering:**
 
 <br>
-
 Created new features to improve analysis:
-
 <br>
 
 * Average Score
@@ -91,7 +86,7 @@ Created new features to improve analysis:
   
 <br>
 
-##Machine Learning Model
+**Machine Learning Model:**
 <br>
 
 * Algorithm: **Linear Regression**
@@ -103,20 +98,19 @@ Created new features to improve analysis:
   * Science Score
   * Language Score
     
-**Target: **% Math Score**
+**Target:** **% Math Score**
   
 <br>
 
-📊 Model Performance
+**📊 Model Performance**
   
 <br>
-
 * R² Score: **0.75 (75%)**
 * The model explains a significant portion of variation in student performance.
 
 <br>
 
-🚀 Technologies Used
+**🚀 Technologies Used**
 <br>
 * Python
 * Pandas
