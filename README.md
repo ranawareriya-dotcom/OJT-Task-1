@@ -98,13 +98,13 @@ Created new features to improve analysis:
 * Algorithm: **Linear Regression**
 * Train/Test Split: **80/20**
 * Input Features:
-  <br>
+    <br>
   * Parent Literacy Rate
-  <br>
+    <br>
   * Teacher-Student Ratio
-  <br>
+    <br>
   * Science Score
-  <br>
+    <br>
   * Language Score
   <br>
 <br>
