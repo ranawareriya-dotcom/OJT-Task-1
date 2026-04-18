@@ -23,26 +23,29 @@ This project focuses on performing **Exploratory Data Analysis (EDA)** and build
 * Target Variable: % Math Score
 * Covers **urban and rural schools** across multiple districts
 <br>
+<br>
 
 **2)Data Cleaning:**
 <br>
+
 Handled missing values using:
 <br>
   * Mean (numerical data)
-  * <br>
+ <br>
   * Mode (categorical data)
     <br>  
-*Removed duplicate records
+* Removed duplicate records
 <br>
-*Final dataset:clean and complete (no null values)
+* Final dataset:clean and complete (no null values)
+
 <br>
 <br>
 
 **3)Exploratory Data Analysis (EDA):**
 <br>
+
 Performed detailed analysis using:
 <br>
-
   **Univariate Analysis**: Distribution of subject scores
   <br>
   **Bivariate Analysis**: Relationships between variables
@@ -70,9 +73,9 @@ Performed detailed analysis using:
 <br>
 **5)Feature Engineering:**
 <br>
+
 Created new features to improve analysis:
 <br>
-
 * Average Score
   <br>
 * Score Difference
@@ -94,11 +97,14 @@ Created new features to improve analysis:
 * Input Features:
 <br>
   * Parent Literacy Rate
+  <br>
   * Teacher-Student Ratio
+  <br>
   * Science Score
+  <br>
   * Language Score
-    
-* **Target: % Math Score**
+  <br>   
+***Target: % Math Score**
   
 <br>
 <br>
@@ -107,6 +113,7 @@ Created new features to improve analysis:
   
 <br>
 * R² Score: **0.75 (75%)**
+<br>
 * The model explains a significant portion of variation in student performance.
 
 <br>
@@ -114,6 +121,7 @@ Created new features to improve analysis:
 
 **🚀 Technologies Used**
 <br>
+
 * Python
 * Pandas
 * NumPy
