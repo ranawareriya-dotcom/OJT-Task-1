@@ -30,10 +30,10 @@ This project focuses on performing **Exploratory Data Analysis (EDA)** and build
 
 Handled missing values using:
 <br>
-  * Mean (numerical data)
- <br>
-  * Mode (categorical data)
-    <br>  
+    *Mean (numerical data)
+      <br>
+    *Mode (categorical data)
+<br>  
 * Removed duplicate records
 <br>
 * Final dataset:clean and complete (no null values)
@@ -44,8 +44,9 @@ Handled missing values using:
 **3)Exploratory Data Analysis (EDA):**
 <br>
 
-Performed detailed analysis using:
+*Performed detailed analysis using:
 <br>
+
   **Univariate Analysis**: Distribution of subject scores
   <br>
   **Bivariate Analysis**: Relationships between variables
@@ -71,6 +72,7 @@ Performed detailed analysis using:
 
 <br>
 <br>
+
 **5)Feature Engineering:**
 <br>
 
@@ -103,7 +105,8 @@ Created new features to improve analysis:
   * Science Score
   <br>
   * Language Score
-  <br>   
+<br>
+
 ***Target: % Math Score**
   
 <br>
