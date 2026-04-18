@@ -33,13 +33,14 @@ Handled missing values using:
     *Mean (numerical data)
       <br>
     *Mode (categorical data)
-<br>  
+      <br>  
 * Removed duplicate records
-<br>
+  <br>
 * Final dataset:clean and complete (no null values)
 
 <br>
 <br>
+
 
 **3)Exploratory Data Analysis (EDA):**
 <br>
